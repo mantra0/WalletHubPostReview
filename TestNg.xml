@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "PMFBY">
+    <test name="CHECK REVIEW">
+        <classes>
+            <class name="com.wallethub.execution.TestExecution"/>
+        </classes>
+    </test>
+</suite>
